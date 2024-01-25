@@ -1,0 +1,1 @@
+# goorm_article_board_comment
